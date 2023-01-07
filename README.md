@@ -2,10 +2,10 @@
 <br>
 
   🌱 I’m currently learning everything 🤣    
-  💵 I’m Pasnonate in blockchain&smart contract technology.    
-  💎 2022 Goals: Learn more about web3.   
+  💵 I’m Pasnonate in machine learning and deep learning (previously was blockchain&smart contract).    
+  💎 2023 Goals: Learn more deep learning.   
   🎨 Fun fact: I love to draw and listen to music.       
-  🥇 Check out my first project connect with MetaMask [here](https://github.com/patkamon/exceed-coffee-front).  
+  🥇 Check out my defi project winning ETHOnline2022  [here](https://github.com/patkamon/fop-fluid-options).  
   
 <br>
 <br>
